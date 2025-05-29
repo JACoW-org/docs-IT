@@ -1,0 +1,16 @@
+site_name: JACoW - IT Documentation
+#site_url: https://it-docs.JACoW.org
+theme: 
+  name: material
+  palette:
+    primary: blue
+repo_name: 'jacow-org/docs-it'
+repo_url: 'https://github.com/jacow-org/docs-it'
+markdown_extensions:
+  - admonition
+plugins:
+  - search
+  - open-in-new-tab:
+      add_icon: true
+nav:
+  - Introduction: index.md
