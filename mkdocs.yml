@@ -3,7 +3,7 @@ site_name: JACoW - IT Documentation
 theme: 
   name: material
   palette:
-    primary: blue
+    primary: deep orange
 repo_name: 'jacow-org/docs-it'
 repo_url: 'https://github.com/jacow-org/docs-it'
 markdown_extensions:
@@ -17,3 +17,4 @@ nav:
   - Computer Setup Guides: 
     - Standard Base Software: PCsetup/software.md
     - Fonts: PCsetup/fonts.md
+    - Acrobat: PCsetup/acrobat.md
