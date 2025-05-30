@@ -14,3 +14,6 @@ plugins:
       add_icon: true
 nav:
   - Introduction: index.md
+  - Computer Setup Guides: 
+    - Standard Base Software: PCsetup/software.md
+    - Fonts: PCsetup/fonts.md
