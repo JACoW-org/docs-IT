@@ -1,5 +1,15 @@
 # Adobe Acrobat DC Pro Configuration
 
+## 0. Copy the Dotting Script to the correct Location
+
+Place Dotting Script into the Acrobat JavaScript directory. Note that the directory will be named the same as the version of acrobat you are using and may vary among different operating systems. For the latest Acrobat DC on Windows it should be:
+
+    C:\Program Files\Adobe\Acrobat DC\Acrobat\Javascripts
+
+![](img/acrobat-setdotjs.png)
+
+![](img/acrobat-javascripts-folder.png)
+
 ## 1. Revert to classic interface
 
 If you have a recent version of Acrobat DC you'll also get the new user interface, which is somehow disorienting and slower for our task. To revert to the classic Acrobat interface, open Acrobat Pro, select the hamburger menu  ![](img/hamburger-menu.png) and choose `Disable the new Acrobat`.
@@ -85,13 +95,3 @@ Setup the **grid lines** which will show you the margin rules on the page. These
 Configure the Full Screen to loop through pages:
 
 ![](img/acrobat-preferences-fullscreen.png)
-
-## Copy the Dotting Script to the correct Location
-
-Place Dotting Script into the Acrobat JavaScript directory. Note that the directory will be named the same as the version of acrobat you are using and may vary among different operating systems. For the latest Acrobat DC on Windows it should be:
-
-    C:\Program Files\Adobe\Acrobat DC\Acrobat\Javascripts
-
-![](img/acrobat-setdotjs.png)
-
-![](img/acrobat-javascripts-folder.png)
