@@ -17,4 +17,5 @@ nav:
   - Computer Setup Guides: 
     - Standard Base Software: PCsetup/software.md
     - Fonts: PCsetup/fonts.md
+    - Distiller: PCsetup/distiller.md
     - Acrobat: PCsetup/acrobat.md
