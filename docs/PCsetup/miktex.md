@@ -15,8 +15,8 @@ First of all, update MiKTeX by running this command in your terminal:
 
 ![](img/miktex-console-start.png)
 
-!!! warning "MiKTeX is to be installed in "**User mode**" (not “*Admin mode*”)"
-    *Admin Mode*" leads to package load errors and a mix-up when users are not logged in as Administrators and the flag on “Always” is not set correctly (which requires Admin privs when installing).
+!!! warning "MiKTeX is to be installed in **User mode** (not *Admin mode*)"
+    *Admin Mode* leads to package load errors and a mix-up when users are not logged in as Administrators and the flag on “Always” is not set correctly (which requires Admin privs when installing).
 
 ![](img/miktex-user-mode.png)
 

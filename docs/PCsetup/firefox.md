@@ -12,7 +12,7 @@
    
      2. [uBlock origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
-4. Set your special IPAC instructions page as Firefox's homepage (e.g.: [IPAC'25](https://ipac-docs.jacow.org/PaperEditing/IPACs/IPAC25/)'s.
+4. Set your special IPAC instructions page as Firefox's homepage (e.g.: [IPAC'25](https://ipac-docs.jacow.org/PaperEditing/IPACs/IPAC25/)'s).
 
 ## Set Acrobat as default PDF application
 
