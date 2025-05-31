@@ -4,8 +4,6 @@
 
 Select the menu `Help` > `About Third-Party Plug-Ins` > `About Enfocus PitStop Pro`.
 
-
-
 ![](img/pitstop-about.png)
 
 Select `Offline Activation`
