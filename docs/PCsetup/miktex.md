@@ -9,7 +9,7 @@ First of all, update MiKTeX by running this command in your terminal:
 ```
 
 !!! Note "Important!"
-    This command must be run at least twice (continue until you see no packages updated anymore)
+    This command must be run at least twice (continue until you see no packages updated anymore)
 
 ## Configuration
 
