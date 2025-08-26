@@ -40,3 +40,10 @@ nav:
     - Firefox: PCsetup/firefox.md
     - PitStop Activation: PCsetup/pitstop-activation.md
     - PitStop Configuration: PCsetup/pitstop-configuration.md
+  - New IT Guides:
+    - IT Stuff: ComputerSetupGuide/jacow-review-itstuff.md
+    - Recommended Software: ComputerSetupGuide/jacow-recommended-software.md
+    - Software Bundle: ComputerSetupGuide/jacow-software-bundle.md
+    - Software Tools Setup: ComputerSetupGuide/jacow-software-tools-setup.md
+    - IT Setup Working Group: ComputerSetupGuide/jacow-it-setup-working-group.md
+    - Additional Resources: ComputerSetupGuide/jacow-additional-resources.md
