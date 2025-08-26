@@ -1,6 +1,8 @@
 # JACoW Additional Resources - Link References
 
-![header](./img/header.png "header logo")
+![header](./img/JACoW.png "header logo")
+
+
 *Contributors: JACoW Editorial Team*  
 *Page contact: JACoW Editorial Team*  
 *Last update: August 25, 2025*

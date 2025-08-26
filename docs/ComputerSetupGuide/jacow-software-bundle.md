@@ -1,6 +1,8 @@
 # JACoW Software Bundle - Installation and Configuration Guide
 
-![header](./img/header.png "header logo")
+![header](./img/JACoW.png "header logo")
+
+
 *Contributors: Raphael Mueller (GSI)*  
 *Page contact: Raphael Mueller (GSI Helmholtzzentrum für Schwerionenforschung GmbH)*  
 *Last update: Unknown (PDF source)*

@@ -1,6 +1,8 @@
 # IT Setup Working Group
 
-![header](./figures/header.png "header logo")
+![header](./img/JACoW.png "header logo")
+
+
 *Contributors: IT Setup Working Group Members*  
 *Page contact: Ivan Andrian (Elettra-Sincrotrone Trieste S.C.p.A.)*  
 *Last update: Unknown*

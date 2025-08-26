@@ -1,6 +1,8 @@
 # Conference IT Needs: Review Discussion Feedback from IT Setup Staff
 
-![header](./img/header.png "header logo")
+![header](./img/JACoW.png "header logo")
+
+
 *Contributors: Raphael, Volker, Ivan, Stefano, Johan*  
 *Page contact: Raphael Mueller (GSI Helmholtzzentrum für Schwerionenforschung GmbH)*  
 *Last update: November 8, 2019*

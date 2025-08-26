@@ -1,6 +1,8 @@
 # Recommended Software for the Proceedings Office
 
-![header](./img/header.png "header logo")
+![header](./img/JACoW.png "header logo")
+
+
 *Contributors: JACoW Editorial Team*  
 *Page contact: JACoW Editorial Team*  
 *Last update: February 2, 2023*

@@ -1,6 +1,8 @@
 # Software Tools and Requirements, Setup, and Installation Options
 
-![header](./img/header.png "header logo")
+![header](./img/JACoW.png "header logo")
+
+
 *Contributors: Todd Satogata (Jefferson Lab)*  
 *Page contact: Raphael Mueller (GSI Helmholtzzentrum für Schwerionenforschung GmbH)*  
 *Last update: 2017*
