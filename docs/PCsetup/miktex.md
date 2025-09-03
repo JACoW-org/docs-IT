@@ -23,3 +23,9 @@ First of all, update MiKTeX by running this command in your terminal:
 Select `Settings` and configure as per screenshot:
 
 ![](img/miktex-settings.png)
+
+## TeXstudio macros
+
+TeXstudio is a cross-platform open-source TeX Editor. It has a built-in macro system that uses the `QuickJS` language. There are some interesting macros in the [official repository](https://github.com/texstudio-org/texstudio-macro) that can be installed by opening the Menu `Macros` ⇒ `Edit Macros...` ⇒ `Browse`. The scripts under `jacow` folder are specifically created for our events. Pull them and assign a shortcut to it.
+
+Details on the macros can be found in the [IPAC-docs](https://ipac-docs.jacow.org/Paper/Writing/latex/#texstudio-tricks) manual.
