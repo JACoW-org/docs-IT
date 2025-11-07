@@ -28,8 +28,12 @@ plugins:
       add_icon: true
 nav:
   - Introduction: index.md
+  - Networking: allthingsit/networking.md
+  - Hardware: allthingsit/hardware.md
   - Software: 
     - Standard Base Software: software/software.md
+    - Software Requirements: software/requirements.md
+    - Preparing Multiple Workstations: software/multipleworkstations.md
     - Tools:
       - PDF comparison: software/Tools/PDFcompare.md
   - Computer Setup Guides: 
@@ -43,3 +47,6 @@ nav:
     - Firefox: PCsetup/firefox.md
     - PitStop Activation: PCsetup/pitstop-activation.md
     - PitStop Configuration: PCsetup/pitstop-configuration.md
+  - Backup System: allthingsit/backup.md
+  - Space Planning: allthingsit/spaceplanning.md
+  - Ergnonomics: allthingsit/ergonomics.md
