@@ -28,8 +28,11 @@ plugins:
       add_icon: true
 nav:
   - Introduction: index.md
+  - Software: 
+    - Standard Base Software: software/software.md
+    - Tools:
+      - PDF comparison: software/Tools/PDFcompare.md
   - Computer Setup Guides: 
-    - Standard Base Software: PCsetup/software.md
     - Fonts: PCsetup/fonts.md
     - Distiller: PCsetup/distiller.md
     - Acrobat: PCsetup/acrobat.md
