@@ -4,6 +4,13 @@
 
 This site hosts the documentation about the IT tools and their configuration for JACoW conferences.
 
+## TL;DR
+
+We try to create an understanding why we propose the conference IT as is here, but if you just want a quick glance to find our recommended hardware and software, here you go:
+
+[Recommended Hardware](allthingsit/hardware.md#recommended-hardware)   
+[Recommended Software](software/software.md#standard-base-software)   
+
 ## Why Should IT Be Near Perfect?
 
 The IT ...
@@ -11,7 +18,7 @@ The IT ...
 * ... is the foundation of the conference
 * ... enables editors, speaker preparation, author reception, registration and others to work. The better the IT the more efficient the job they will do and this impacts the conference and proceedings
 * ... is a major component of the budget
-* ... is one of the main factors that drives the perception about success of a conference 
+* ... is one of the main factors that contributes to the perception about success of a conference 
 
 ## An up front Advice for Future Planners
 

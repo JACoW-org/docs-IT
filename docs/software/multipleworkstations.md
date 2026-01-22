@@ -1,5 +1,7 @@
 # Preparing Multiple Workstations
 
+@TODO Update or scrape?
+
 Setting up all of this once is work enough, and for small conferences it might be feasible to do it manually for 4-6 workstations.
 
 For bigger conferences we suggest seting up a master computer and cloning the system. If you do "disk cloning" you have several options.

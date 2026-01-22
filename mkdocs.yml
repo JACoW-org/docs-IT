@@ -36,17 +36,17 @@ nav:
     - Preparing Multiple Workstations: software/multipleworkstations.md
     - Tools:
       - PDF comparison: software/Tools/PDFcompare.md
-  - Computer Setup Guides: 
-    - Fonts: PCsetup/fonts.md
-    - Distiller: PCsetup/distiller.md
-    - Acrobat: PCsetup/acrobat.md
-    - Adobe PDF printer: PCsetup/pdfprinter.md
-    - Word 365: PCsetup/word365.md
-    - PowerPoint 365: PCsetup/powerpoint365.md
-    - MiKTeX: PCsetup/miktex.md
-    - Firefox: PCsetup/firefox.md
-    - PitStop Activation: PCsetup/pitstop-activation.md
-    - PitStop Configuration: PCsetup/pitstop-configuration.md
+    - Computer Setup Guides: 
+        - Fonts: PCsetup/fonts.md
+        - Distiller: PCsetup/distiller.md
+        - Acrobat: PCsetup/acrobat.md
+        - Adobe PDF printer: PCsetup/pdfprinter.md
+        - Word 365: PCsetup/word365.md
+        - PowerPoint 365: PCsetup/powerpoint365.md
+        - MiKTeX: PCsetup/miktex.md
+        - Firefox: PCsetup/firefox.md
+        - PitStop Activation: PCsetup/pitstop-activation.md
+        - PitStop Configuration: PCsetup/pitstop-configuration.md
   - Backup System: allthingsit/backup.md
   - Space Planning: allthingsit/spaceplanning.md
-  - Ergnonomics: allthingsit/ergonomics.md
+  - Ergononomics: allthingsit/ergonomics.md
