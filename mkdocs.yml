@@ -28,18 +28,25 @@ plugins:
       add_icon: true
 nav:
   - Introduction: index.md
+  - Networking: allthingsit/networking.md
+  - Hardware: allthingsit/hardware.md
   - Software: 
     - Standard Base Software: software/software.md
+    - Computer Setup Guides: 
+        - Fonts: PCsetup/fonts.md
+        - Distiller: PCsetup/distiller.md
+        - Acrobat: PCsetup/acrobat.md
+        - Adobe PDF printer: PCsetup/pdfprinter.md
+        - Word 365: PCsetup/word365.md
+        - PowerPoint 365: PCsetup/powerpoint365.md
+        - MiKTeX: PCsetup/miktex.md
+        - Firefox: PCsetup/firefox.md
+        - PitStop Activation: PCsetup/pitstop-activation.md
+        - PitStop Configuration: PCsetup/pitstop-configuration.md
+    - Preparing Multiple Workstations: software/multipleworkstations.md
     - Tools:
       - PDF comparison: software/Tools/PDFcompare.md
-  - Computer Setup Guides: 
-    - Fonts: PCsetup/fonts.md
-    - Distiller: PCsetup/distiller.md
-    - Acrobat: PCsetup/acrobat.md
-    - Adobe PDF printer: PCsetup/pdfprinter.md
-    - Word 365: PCsetup/word365.md
-    - PowerPoint 365: PCsetup/powerpoint365.md
-    - MiKTeX: PCsetup/miktex.md
-    - Firefox: PCsetup/firefox.md
-    - PitStop Activation: PCsetup/pitstop-activation.md
-    - PitStop Configuration: PCsetup/pitstop-configuration.md
+  - Backup System: allthingsit/backup.md
+  - Space Planning: allthingsit/spaceplanning.md
+  - Ergononomics: allthingsit/ergonomics.md
+  - External Resources: allthingsit/external-resources.md
