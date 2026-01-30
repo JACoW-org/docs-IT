@@ -28,18 +28,24 @@ plugins:
       add_icon: true
 nav:
   - Introduction: index.md
+  - Networking: networking.md
+  - Hardware: hardware.md
   - Software: 
     - Standard Base Software: software/software.md
+    - Computer Setup Guides: 
+        - Fonts: software/PCsetup/fonts.md
+        - Distiller: software/PCsetup/distiller.md
+        - Acrobat: software/PCsetup/acrobat.md
+        - Adobe PDF printer: software/PCsetup/pdfprinter.md
+        - Word 365: software/PCsetup/word365.md
+        - PowerPoint 365: software/PCsetup/powerpoint365.md
+        - MiKTeX: software/PCsetup/miktex.md
+        - Firefox: software/PCsetup/firefox.md
+        - PitStop Activation: software/PCsetup/pitstop-activation.md
+        - PitStop Configuration: software/PCsetup/pitstop-configuration.md
+    - Preparing Multiple Workstations: software/multipleworkstations.md
     - Tools:
       - PDF comparison: software/Tools/PDFcompare.md
-  - Computer Setup Guides: 
-    - Fonts: PCsetup/fonts.md
-    - Distiller: PCsetup/distiller.md
-    - Acrobat: PCsetup/acrobat.md
-    - Adobe PDF printer: PCsetup/pdfprinter.md
-    - Word 365: PCsetup/word365.md
-    - PowerPoint 365: PCsetup/powerpoint365.md
-    - MiKTeX: PCsetup/miktex.md
-    - Firefox: PCsetup/firefox.md
-    - PitStop Activation: PCsetup/pitstop-activation.md
-    - PitStop Configuration: PCsetup/pitstop-configuration.md
+  - Backup System: backup.md
+  - Space Planning: spaceplanning.md
+  - Ergononomics: ergonomics.md
