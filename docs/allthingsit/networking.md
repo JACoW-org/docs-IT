@@ -1,33 +1,43 @@
 # Networking
 
-A conference venue's capability and limitations needs to be clearly understood
+## Understanding Venue Capabilities
 
-* Communicate expectations clearly, aggree upon them and put the guaranetees in writing (e.g. Service-level-agreement in contract)
-* Investigate their system and do not simply believe their claims
-* Asses what level of service they can or cannot offer
-* Design your network in a way that conference mission critical networks (e.g. proceedings office, presentation management) can not be impacted by convenience networks (e.g. internet browsing, public WiFi) for example
-    * Seperate Networks or 
-    * Management through VLANs 
+A conference venue's networking capability and limitations need to be clearly understood:
 
-## Wired
+- **Clear communication** - Communicate expectations clearly, agree upon them and put the guarantees in writing (e.g., Service-level-agreement in contract)
+- **Investigation** - Investigate their system and do not simply believe their claims
+- **Assessment** - Assess what level of service they can or cannot offer
+- **Network design** - Design your network so conference mission-critical networks (e.g., proceedings office, presentation management) cannot be impacted by convenience networks (e.g., internet cafe, public WiFi)
+    - **Network separation** - Use separate networks managed through e.g. VLANs
 
-@TODO review spec recommendations (GBit etc.)
+### Wired Network Requirements
 
-* Network infrastructure at a conference site MUST comfortably allow for the required bandwidth
-* Things to look for
-    * Local Area Network (LAN) - from computer to switch (min 100 Mbs / rec. 1000 Mbs)
-    * Network Backbone - from switch to switch, switch to router, and router to switch (rec. 1000 Mbs+) and enough routing capacity for the number of connections
-    * Internet Connection - from the router to Internet Service Provider (ISP) (rec. 500 Mbs+)
-    * Prepare a backup/failover, either a second ISP or something that you can use to provide a bare minimum internet to the proceedings office (e.g. 5G router) 
+Network infrastructure at a conference site **MUST** comfortably allow for the required bandwidth.
 
-## Wireless
+**Key components to evaluate:**
 
-* Remember most participants, exhibitors and editors have more than one devices
-* Weaknesses should be addressed in advance!
-    * Adding access points
-    * Portable access points
-    * Worst case: Bring in a third party wireless through a company 
-* Use reliable (enterprise grade) wireless devices 
+| Network Component | Minimum Requirement | Recommended |
+|-------------------|---------------------|-------------|
+| Local Area Network (LAN) | 100 Mbps | 1000 Mbps |
+| Network Backbone | 100 Mbps | 1000 Mbps |
+| Internet Connection | 10 Mbps | 40+ Mbps |
+
+**Additional considerations:**
+- Ensure sufficient routing capacity for the number of connections
+- Prepare backup/failover solutions:
+  - Second ISP
+  - 5G router for minimum internet access to proceedings office
+  - Thumb drives for critical file transfers
+
+### Wireless Network Planning
+
+Remember that most participants, exhibitors, and editors have multiple devices.
+
+**Address weaknesses in advance:**
+- Add additional access points where needed
+- Deploy portable access points for flexibility
+- Consider third-party wireless companies for worst-case scenarios
+- Use reliable, enterprise-grade wireless devices
 
 ## Wireless vs. Wired:
 

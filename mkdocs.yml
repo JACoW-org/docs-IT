@@ -32,10 +32,6 @@ nav:
   - Hardware: allthingsit/hardware.md
   - Software: 
     - Standard Base Software: software/software.md
-    - Software Requirements: software/requirements.md
-    - Preparing Multiple Workstations: software/multipleworkstations.md
-    - Tools:
-      - PDF comparison: software/Tools/PDFcompare.md
     - Computer Setup Guides: 
         - Fonts: PCsetup/fonts.md
         - Distiller: PCsetup/distiller.md
@@ -47,6 +43,10 @@ nav:
         - Firefox: PCsetup/firefox.md
         - PitStop Activation: PCsetup/pitstop-activation.md
         - PitStop Configuration: PCsetup/pitstop-configuration.md
+    - Preparing Multiple Workstations: software/multipleworkstations.md
+    - Tools:
+      - PDF comparison: software/Tools/PDFcompare.md
   - Backup System: allthingsit/backup.md
   - Space Planning: allthingsit/spaceplanning.md
   - Ergononomics: allthingsit/ergonomics.md
+  - External Resources: allthingsit/external-resources.md

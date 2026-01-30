@@ -1,35 +1,51 @@
 # Preparing Multiple Workstations
 
-@TODO Update or scrape?
+Setting up all software once and configuring it is quite some work, for small conferences it might be feasible to do it manually. But for bigger conferences we suggest seting up a master computer and cloning the system.
 
-Setting up all of this once is work enough, and for small conferences it might be feasible to do it manually for 4-6 workstations.
 
-For bigger conferences we suggest seting up a master computer and cloning the system. If you do "disk cloning" you have several options.
+## Setup Strategy
 
-    Disk cloning software like Clonezilla which writes an image of a disk on e.g. an USB drive and then recreates the drives content on another machine. Clonezilla also has the possibility to clone to several systems at once through a network connection.
-    Use a dedicated device, a hard disk duplicator, that connects one source and one destination disk and the data is transfered after pushing a button. 
+- **Large conferences:** Set up a "master" computer and clone other systems
+- **Small conferences (4-6 PCs):** Manual setup may be more practical than having the cloning overhead
 
-## Preparations
 
-    Prerequisites
-        A master workstation that is already setup
-        At least one huge (64 GB) USB thumb drive per person setting up. Since restoring an image is more or less automatic, the more thumb drivese the better
-        The hardware of all PCs that are cloned needs to be the same (e.g. because of pre-installed drivers) 
+## Cloning Options
 
-You generalize the master and prepare it to start in setup mode. For Windows generalizing the image with "sysprep" removes any hardware-dependent information from it, resets the activation timer, and cleans up Windows so that you can duplicate the image on other computers. (Note that during TM 2017, Johan recommended not generalizing.)
+| Method | Description | Best For |
+|--------|-------------|----------|
+| **[Clonezilla](http://clonezilla.org/)** | Creates disk image on USB drive, can clone to multiple systems via network | Most conferences |
+| **Hardware Duplicator** | Dedicated device for direct disk-to-disk transfer | Simple setups |
 
-    Open Sysprep.
-    In the System Cleanup Action list, select Enter System Out-of-Box Experience (OOBE).
-    Select the Generalize check box. (Note that during TM 2017, Johan recommended not generalizing.)
-    In the Shutdown Options list, select Shutdown.
-    Click OK to run Sysprep and shut down the computer. 
+# Cloning Prerequisites
+
+## Required Resources
+
+- **Master workstation** (fully configured)
+- **Large USB drives** (64 GB minimum, one per person setting up)
+- **Identical hardware** across all PCs (for driver compatibility)
+
+## Windows Sysprep Process
+
+**Generalization Steps:**
+
+1. Open Sysprep
+2. **System Cleanup Action:** Enter System Out-of-Box Experience (OOBE)
+3. **Generalize checkbox:** Select (Note: Johan recommended not generalizing during TM 2017)
+4. **Shutdown Options:** Select Shutdown
+5. Click OK to run Sysprep and shut down
+
+
+For Windows "generalizing" the image with "sysprep" removes any hardware-dependent information from it, resets the activation timer, and cleans up Windows so that you can duplicate the image on other computers. (Note that during TM 2017, Johan recommended not generalizing.)
 
 ![](img/it_cloning_sysprep_steps.png)
 	
 ## Cloning
 
-    If you want to clone with Clonezilla follow the very good clonezilla instructions:
-    Save Disk Image and Restore Disk Images
-    If you use disk duplicaters hookup your disks and start the process:
+If you want to clone with Clonezilla follow the very good clonezilla instructions:
+
+[Save Disk Image and Restore Disk Images](https://clonezilla.org/clonezilla-live-doc.php)
+
+
+If you use disk duplicaters hookup your disks and start the process:
 
 ![](img/it_cloning_hardware.jpg)

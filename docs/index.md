@@ -13,28 +13,38 @@ We try to create an understanding why we propose the conference IT as is here, b
 
 ## Why Should IT Be Near Perfect?
 
-The IT ...
+IT plays a crucial role in conference success because it:
 
-* ... is the foundation of the conference
-* ... enables editors, speaker preparation, author reception, registration and others to work. The better the IT the more efficient the job they will do and this impacts the conference and proceedings
-* ... is a major component of the budget
-* ... is one of the main factors that contributes to the perception about success of a conference 
+- **Foundation of the conference** - Forms the basic infrastructure everything else depends on
+- **Enables editors to work** - The better the IT, the more efficient editors become, directly impacting proceedings quality
+- **Major budget component** - Represents a significant portion of conference expenses
+- **Drives perception** - One of the key factors influencing attendees' perception of conference success
 
 ## An up front Advice for Future Planners
 
-* Don't expect to get anything done at your regular job starting about a month before the conference!
-* You will end up investigating and doing a lot more than just IT!
-* Learn from lessons from the past!
-    * Send as many people to as many conferences as you can to investigate. 
-    * Be Flexible!
-        * Don't think the requirements of your conference will exactly be the same as the last one. 
-    * Bring extra:
-        * Power strips
-        * Extension Cords
-        * Monitors
-        * Stock up on sleep 
-    * Plan on spending lots and lots of time with the network staff beforehand (lab and venue).
-    * Draft intelligent dedicated people as early in the process as you can. You can't do it alone. Bring as many as they will allow you. 
+### Time Management
+- **Don't expect regular work productivity** starting one month before conference
+- **Expect expanded scope** - you'll investigate and handle much more than just IT
+
+### Learning and Preparation
+- **Learn from past conferences** - study lessons learned documentation
+- **Send people to conferences** - attend as many conferences as possible for experience
+- **Train speaker managers** - send at least one person to gain speaker preparation experience
+
+### Flexibility and Planning
+- **Stay flexible** - each conference has unique requirements
+- **Draft experienced people early** - you cannot handle everything alone
+- **Bring extra supplies:**
+  - Power strips
+  - Extension cords  
+  - Monitors
+- **Stock up on sleep** before the conference
+- **Plan extensive venue networking discussions** beforehand
+
+### Staffing
+- Having experienced people in Speaker Preparation ensures smooth operations
+- Recruit intelligent, dedicated people as early as possible
+- Bring as many qualified staff as budget allows
 
 ## Resources
 

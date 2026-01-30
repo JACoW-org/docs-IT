@@ -86,25 +86,6 @@ PC
 * 1 Gigabit Ethernet 
 * Mouse and Keyboard even if you provide a Laptop
 
-@TODO Update MAC data
-    27" iMac
-
-        Intel® Core™ i7 (3500 MHz Basic Clock Frequency )
-        32 GB memory
-        512 GB SSD
-        NVIDIA GeForce GT 755M, 1 GB
-        2560 x 1440 resolution
-        1 Gigabit Ethernet 
-
-    13.3" MacBook Pro with Retina Display
-
-        Intel® Core™ i5 (2600 MHz)
-        8 GB
-        256 GB SSD
-        NVIDIA GeForce GT 650M, 1 GB
-        2560 x 1600 resolution
-        1 Gigabit Ethernet ~~
-
 ### Minimum
 
 PC
@@ -116,23 +97,3 @@ PC
 * 22” PC monitor, 1920 x 1200 resolution, 16:10, (real monitor, not TV, connected through DVI, HDMI or DisplayPort)
 * 100 MBit Ethernet 
 * Mouse and Keyboard even if you provide a Laptop
-
-
-@TODO Update MAC data
-    21.5" iMac
-
-        Intel® Core™ i5 (2900MHz)
-        4 GB memory
-        1 TB hard drive
-        NVIDIA GeForce GT 750M, 512 MB
-        1920 x 1080 resolution
-        100 MBit Ethernet 
-
-    13.3" MacBook Pro (without retina display)
-
-        Intel® Core™ i5 (2500MHz)
-        4 GB memory
-        500 GB hard drive
-        NVIDIA GeForce GT 650M, 512 MB
-        1280 x 800 resolution (the resolution of this MacBook is so low that you should provide an extra monitor for it with a higher resolution, look at the PC specs for monitor details)
-        100 MBit Ethernet
