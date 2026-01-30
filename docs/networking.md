@@ -8,7 +8,7 @@ A conference venue's networking capability and limitations need to be clearly un
 - **Investigation** - Investigate their system and do not simply believe their claims
 - **Assessment** - Assess what level of service they can or cannot offer
 - **Network design** - Design your network so conference mission-critical networks (e.g., proceedings office, presentation management) cannot be impacted by convenience networks (e.g., internet cafe, public WiFi)
-    - **Network separation** - Use separate networks managed through e.g. VLANs
+- **Network separation** - Use separate networks managed through e.g. VLANs
 
 ### Wired Network Requirements
 
@@ -16,24 +16,28 @@ Network infrastructure at a conference site **MUST** comfortably allow for the r
 
 **Key components to evaluate:**
 
-| Network Component | Minimum Requirement | Recommended |
-|-------------------|---------------------|-------------|
-| Local Area Network (LAN) | 100 Mbps | 1000 Mbps |
-| Network Backbone | 100 Mbps | 1000 Mbps |
-| Internet Connection | 10 Mbps | 40+ Mbps |
+| Network Component        | Minimum Requirement | Recommended |
+| ------------------------ | ------------------- | ----------- |
+| Local Area Network (LAN) | 100 Mbps            | 1 Gbps      |
+| Network Backbone         | 100 Mbps            | 1 Gbps      |
+| Internet Connection      | 100 Mbps            | 1 Gbps      |
+
+You can try and use some online tools to predict the bandwidth you may need for your conference. An example is [Encore's Bandwidth Calculator](https://www.encoreglobal.com/event-planning-resources/tools-tips-and-guides/bandwidth-calculator/).
 
 **Additional considerations:**
+
 - Ensure sufficient routing capacity for the number of connections
 - Prepare backup/failover solutions:
-  - Second ISP
-  - 5G router for minimum internet access to proceedings office
-  - Thumb drives for critical file transfers
+    - Second ISP
+    - 5G router for minimum internet access to proceedings office
+    - Thumb drives/external HDDs for critical file transfers
 
 ### Wireless Network Planning
 
 Remember that most participants, exhibitors, and editors have multiple devices.
 
 **Address weaknesses in advance:**
+
 - Add additional access points where needed
 - Deploy portable access points for flexibility
 - Consider third-party wireless companies for worst-case scenarios
