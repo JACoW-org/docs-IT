@@ -32,6 +32,7 @@ nav:
   - Hardware: hardware.md
   - Software: 
     - Standard Base Software: software/software.md
+    - Preparing Multiple Workstations: software/multipleworkstations.md
     - Computer Setup Guides: 
         - Fonts: software/PCsetup/fonts.md
         - Distiller: software/PCsetup/distiller.md
@@ -43,7 +44,6 @@ nav:
         - Firefox: software/PCsetup/firefox.md
         - PitStop Activation: software/PCsetup/pitstop-activation.md
         - PitStop Configuration: software/PCsetup/pitstop-configuration.md
-    - Preparing Multiple Workstations: software/multipleworkstations.md
     - Tools:
       - PDF comparison: software/Tools/PDFcompare.md
   - Backup System: backup.md
