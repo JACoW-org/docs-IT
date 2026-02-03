@@ -8,7 +8,7 @@ This site hosts the documentation about the IT tools and their configuration for
 
 We try to create an understanding why we propose the conference IT as is here, but if you just want a quick glance to find our recommended hardware and software, here you go:
 
-[Recommended Hardware](allthingsit/hardware.md#recommended-hardware)   
+[Recommended Hardware](hardware.md#recommended-hardware)   
 [Recommended Software](software/software.md#standard-base-software)
 
 ---
