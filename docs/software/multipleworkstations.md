@@ -50,6 +50,24 @@ If you use disk duplicaters hookup your disks and start the process:
 
 ## External Resources
 
+### [Scoop](https://scoop.sh) - Installation and Setup Tool
+
+**Functionality:**
+
+- Batch software installation
+- Automated update management
+- Silent installation capabilities
+- Coverage of most JACoW-required software
+
+**Advantages:**
+
+- Significant time savings
+- Consistent installations
+- Automatic latest versions
+- Reduced manual configuration errors
+
+---
+
 ### [Chocolatey](https://chocolatey.org) - Package Management
 
 **Application:**

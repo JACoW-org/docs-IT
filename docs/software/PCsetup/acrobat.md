@@ -56,11 +56,13 @@ Setup the `PostScript/EPS` settings to use the `JACoW.joboptions` **Note**: Befo
 
 ![](img/acrobat-preferences-convert-from-pdf-2.png)
 
+## 8. Convert to PDF
+
+Set latest JACoW Distiller Settings for Office apps (should be `JACoW` or the latest `JACoW-XX` entry in the menus below):
+
 ![](img/acrobat-preferences-convert-from-pdf-3.png)
 
 ![](img/acrobat-preferences-convert-from-pdf-4.png)
-
-## 8. Convert to PDF
 
 Setup the PNG Grayscale and Color to High Quality:
 
