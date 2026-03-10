@@ -46,6 +46,7 @@ nav:
         - PitStop Configuration: software/PCsetup/pitstop-configuration.md
     - Tools:
       - PDF comparison: software/Tools/PDFcompare.md
+      - Mobile app: software/Tools/mobileapp.md
   - Backup System: backup.md
   - Space Planning: spaceplanning.md
   - Ergononomics: ergonomics.md
